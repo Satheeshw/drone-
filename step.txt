@@ -3,4 +3,22 @@ git app file name
 git commit -m" "comment"
 git push origin main
 (delte git add file name same step)
-git pull for (change flie in github
+git pull for (change flie in github)
+
+PS C:\Users\satheeshwaran v\OneDrive\Documents\Desktop\shop> git add .
+PS C:\Users\satheeshwaran v\OneDrive\Documents\Desktop\shop> cd
+PS C:\Users\satheeshwaran v\OneDrive\Documents\Desktop\shop> git add .
+PS C:\Users\satheeshwaran v\OneDrive\Documents\Desktop\shop> git add shoe.avif
+PS C:\Users\satheeshwaran v\OneDrive\Documents\Desktop\shop> git commit -m "suu"
+[master (root-commit) e8aaa7e] suu
+ 4 files changed, 260 insertions(+)
+ create mode 100644 indexshop.html
+ create mode 100644 netlify.html
+ create mode 100644 shoe.avif
+ create mode 100644 style.css
+PS C:\Users\satheeshwaran v\OneDrive\Documents\Desktop\shop> git remote add origin https://github.com/Satheeshw/sheop.git
+PS C:\Users\satheeshwaran v\OneDrive\Documents\Desktop\shop> git branc
+git: 'branc' is not a git command. See 'git --help'.
+PS C:\Users\satheeshwaran v\OneDrive\Documents\Desktop\shop> git branch
+* master
+PS C:\Users\satheeshwaran v\OneDrive\Documents\Desktop\shop> git push origin master 
