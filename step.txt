@@ -1,0 +1,4 @@
+git clone link
+git app file name
+git commit -m" "comment"
+git push origin main
